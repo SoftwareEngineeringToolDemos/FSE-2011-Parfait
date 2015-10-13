@@ -13,3 +13,7 @@ In this repository, for Parfait you will find:
 :x: Executable tool (not available)
 
 This repository was constructed by [Rishi Anne](https://github.com/rishielnino) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).
+
+## Attribution
+
+Authors of tool: Dr. Cristina Cifuentes and Dr. Nathan Keynes and Dr. Lian Li and Dr.Nathan Hawes and Andrew Browne and Manuel Valdiviezo and Dr.Jacob Zimmermann and Dr.Andrew Craik and Douglas Teoh and	Christian Hoermann.
