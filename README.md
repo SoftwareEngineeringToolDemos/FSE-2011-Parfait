@@ -5,7 +5,9 @@ This repository contains information related to the tool Parfait   presented in 
 
 You can find the paper on the following  [link](http://dl.acm.org/citation.cfm?doid=2025113.2025183).
 
-This repository _is not_ the original repository for this tool.
+This repository _is not_ the original repository for this tool. Here are some links to the original project ,
+* [The Official Project Page for Parfait] (https://labs.oracle.com/pls/apex/f?p=labs:49:::::P49_PROJECT_ID:13)
+
 
 In this repository, for Parfait you will find:
 
