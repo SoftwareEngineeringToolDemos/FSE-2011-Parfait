@@ -5,7 +5,7 @@ This repository contains information related to the tool Parfait   presented in 
 
 You can find the paper on the following  [link](http://dl.acm.org/citation.cfm?doid=2025113.2025183).
 
-This repository is not the original repository for this tool.
+This repository _is not_ the original repository for this tool.
 
 In this repository, for Parfait you will find:
 
